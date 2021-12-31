@@ -35,7 +35,7 @@ Here are some ideas to get you started:
     <img alt="Java" src="https://img.shields.io/badge/java-%2302569B.svg?style=for-the-badge&logo=java&logoColor=white" />
 <p>
 </p>
-<img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=jpolina&theme=dark&layout=compact" alt="My Github Stats">
+<img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=jpolina&theme=radical&layout=compact" alt="My Github Stats">
 
-<img src="https://github-readme-stats.vercel.app/api?username=jpolina&&show_icons=true&title_color=ffffff&icon_color=bb2acf&text_color=daf7dc&bg_color=151515">
+<img src="https://github-readme-stats.vercel.app/api?username=jpolina&&show_icons=true&theme=radical">
 
