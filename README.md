@@ -1,4 +1,4 @@
-### Hi there 👋, I'm Jonathan
+### Hi there, I'm Jonathan 👋
 I'm a Grade 12 student who's interested in computer science.
 
 <!--
@@ -17,7 +17,7 @@ Here are some ideas to get you started:
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=jpolina&label=Profile%20views&color=0e75b6&style=flat" alt="jpolina" /> </p>
 
-- 🌱 I’m currently learning **Node.js**
+- 🌱 I’m currently learning **Node.js** and **Competitive Programming**
 
 
 <p align="left">
@@ -32,13 +32,9 @@ Here are some ideas to get you started:
     <img src="https://img.shields.io/badge/css3%20-%231572B6.svg?&style=for-the-badge&logo=css3&logoColor=white">
     <img alt="NodeJS" src="https://img.shields.io/badge/node.js-%2343853D.svg?style=for-the-badge&logo=node-dot-js&logoColor=white"/>
     <img alt="MongoDB" src ="https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=for-the-badge&logo=mongodb&logoColor=white"/>
-    <img alt="React" src="https://img.shields.io/badge/react-%230175C2.svg?style=for-the-badge&logo=react&logoColor=white"/>
     <img alt="Java" src="https://img.shields.io/badge/java-%2302569B.svg?style=for-the-badge&logo=java&logoColor=white" />
 <p>
 </p>
-
-
-
-
+<img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=jpolina&layout=compact&theme=radical" alt="My Github Stats">
 <img src="https://github-readme-stats.vercel.app/api?username=jpolina&&show_icons=true&title_color=ffffff&icon_color=bb2acf&text_color=daf7dc&bg_color=151515">
 
