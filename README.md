@@ -17,7 +17,7 @@ Here are some ideas to get you started:
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=jpolina&label=Profile%20views&color=0e75b6&style=flat" alt="jpolina" /> </p>
 
-- 🌱 I’m currently learning **Node.js** and **Competitive Programming**
+- 🌱 I’m currently learning **Node.js** and **dApp development**
 
 
 <p align="left">
